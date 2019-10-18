@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+header h1 {
+  background: darkgoldenrod;
+  color: lightpink;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+}
+
+main {
+  background: lightblue;
+  width: 600px;
+  padding: 30px;
+  border: 5px red solid;
+  margin: 0 auto;
+}
+
+footer {
+  background: darkcyan;
+  color: lightsteelblue;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-top: 25px;
+}
+img {
+  width: 550px;
+}
